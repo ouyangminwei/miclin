@@ -1,0 +1,465 @@
+{
+  "guide": "https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/taiwan-full-list",
+  "edition": 2026,
+  "booking_directory": "https://alive.businessweekly.com.tw/single/Index/ARTL006004174",
+  "restaurants": [
+    {
+      "name": "頤宮",
+      "city": "台北",
+      "stars": 3,
+      "url": "https://inline.app/booking/-LUoSpuw9DsGR06x5Mnv:inline-live-2a466/-LUoSpxysiQlIqWed9MA",
+      "phone": "02-2181-9950#3261",
+      "mirror": "le-palais"
+    },
+    {
+      "name": "態芮",
+      "city": "台北",
+      "stars": 3,
+      "url": "https://inline.app/booking/-Kz6p7wee2BSMMrre9gH/-Kz6p7wflx5LfQwwgpIB",
+      "phone": "02-8501-5500",
+      "mirror": "tairroir"
+    },
+    {
+      "name": "JL Studio",
+      "city": "台中",
+      "stars": 3,
+      "url": "https://inline.app/booking/-MbLFsSyA43kPyboh5Vf:inline-live-2/-MbLFsf17YHBLys8Im1H",
+      "phone": "04-2380-3570",
+      "mirror": "jl-studio"
+    },
+    {
+      "name": "A",
+      "city": "台北",
+      "stars": 2,
+      "url": "https://inline.app/booking/-NWefFEmfAI9IZ5SCse3:inline-live-3/-NWefFRVmykbQ6_RUnBk",
+      "phone": "02-2721-8088",
+      "mirror": "restaurant-a"
+    },
+    {
+      "name": "盈科",
+      "city": "台北",
+      "stars": 2,
+      "url": "https://eika.tw/",
+      "phone": "02-2550-6863"
+    },
+    {
+      "name": "侯布雄",
+      "city": "台北",
+      "stars": 2,
+      "url": "https://inline.app/booking/-MWTh4C8p24ICmxRZ3Re:inline-live-2/-MWTh4M_ZsH7lkVv7_qf",
+      "phone": "02-8729-2628",
+      "mirror": "latelier-de-joel-robuchon"
+    },
+    {
+      "name": "logy",
+      "city": "台北",
+      "stars": 2,
+      "url": "https://inline.app/booking/-NM7rs7nvNoRoLWsBeNX:inline-live-3/-OHGaxultbU47AJ8IRPF",
+      "phone": "",
+      "mirror": "logy"
+    },
+    {
+      "name": "Mizue",
+      "city": "台北",
+      "stars": 2,
+      "url": "https://www.tablecheck.com/zh-TW/capella-taipei-mizue/reserve/landing",
+      "phone": "02-7709-6868"
+    },
+    {
+      "name": "渥達尼斯磨坊",
+      "city": "台北",
+      "stars": 2,
+      "url": "https://inline.app/booking/-LvnhhqjlSyn5bO2LRnB:inline-live-1/-LvnhiT5kxr-UI1F9D3n",
+      "phone": "02-2500-6832",
+      "mirror": "molino-de-urdaniz"
+    },
+    {
+      "name": "牡丹",
+      "city": "台北",
+      "stars": 2,
+      "url": "https://inline.app/booking/-LDdongnxCYYPUTVhhmL/-LDdongnxCYYPUTVhhmM",
+      "phone": "02-2706-8699"
+    },
+    {
+      "name": "NOBUO",
+      "city": "台北",
+      "stars": 2,
+      "url": "https://inline.app/booking/-MuK1bpItT5KIPfIIeen:inline-live-2/-MuK1c2oSjOt9SO7aYuY",
+      "phone": "",
+      "mirror": "nobuo"
+    },
+    {
+      "name": "彧割烹",
+      "city": "台北",
+      "stars": 2,
+      "url": "https://inline.app/booking/-NTCRH8LpFE3o54UPpzM:inline-live-3/-NTCRHM5u-yDKmVei0f6",
+      "phone": "02-2503-0303",
+      "mirror": "yu-kapo"
+    },
+    {
+      "name": "A Cut",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-MFZR5EjPqgUUVE2VAEB:inline-live-1/-MFZR5N669sIdl4B86fj",
+      "phone": "02-2571-0389"
+    },
+    {
+      "name": "Ad Astra",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-N6fGfWsh3gIJ4u-4wIP:inline-live-2/-N6fGfm0uh0vUe9gW1hh",
+      "phone": "",
+      "mirror": "ad-astra"
+    },
+    {
+      "name": "川雅",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NnHSXH8vRXy1EjrcbX7:inline-live-3/-NnHSXU7D-qXk1xG1tEv",
+      "phone": "02-2722-0303",
+      "mirror": "chuan-ya"
+    },
+    {
+      "name": "斑泊",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NEozxUDoGKu0On5iDj7:inline-live-1/-NEozxiz7i9djWcHVoaO",
+      "phone": "02-8502-9168"
+    },
+    {
+      "name": "心宴",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NrYsGNikWMkx54ruPU3:inline-live-3/-NrYsGccvEkkXRXE8fiy",
+      "phone": "02-8501-5980",
+      "mirror": "amaze"
+    },
+    {
+      "name": "Circum-",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NemBiZ4Jql9Uvpdq6t8:inline-live-3/-NemBikqGZ7A4Fi9Lp4d",
+      "phone": "",
+      "mirror": "circum"
+    },
+    {
+      "name": "de nuit",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-LpWGduDq2ETMoyArFNj:inline-live-1/-LpWGePJPoMtVhB6IDIJ",
+      "phone": "02-2700-1958",
+      "mirror": "de-nuit"
+    },
+    {
+      "name": "FRASSI",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NH3TY-pyviX9hVd7tOw:inline-live-3/-NH3TYFeNEchG4s4-NJ6",
+      "phone": "02-8502-6383",
+      "mirror": "frassi"
+    },
+    {
+      "name": "富錦樹台菜香檳 (松山)",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-Kj3SPrLdIg-kmGZDDLO/-Kj3SPrLdIg-kmGZDDLP",
+      "phone": "02-8712-8770",
+      "mirror": "fujin-tree-songshan"
+    },
+    {
+      "name": "金蓬萊遵古台菜",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://www.goldenformosa.com.tw/bin/home.php",
+      "phone": "02-28711517"
+    },
+    {
+      "name": "好嶼",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-LHWCGzZcr-qryZU_zAs/-LHWCGzZcr-qryZU_zAt",
+      "phone": "02-2711-4723",
+      "mirror": "hosu"
+    },
+    {
+      "name": "Impromptu by Paul Lee",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-LHc6eHwN-k9m52dJVb6/-LHc6eHwN-k9m52dJVb7",
+      "phone": "02-2521-2518"
+    },
+    {
+      "name": "INITA",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://www.tablecheck.com/zh-TW/shops/inita/reserve",
+      "phone": "02-2577-0886"
+    },
+    {
+      "name": "謙安和",
+      "city": "台北",
+      "stars": 1,
+      "url": "",
+      "phone": "02-2700-8128"
+    },
+    {
+      "name": "掬",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NVScHqmglSARMeSs4zQ:inline-live-3/-NVScI37-X-YAx9U3Azi",
+      "phone": "02-2700-2701"
+    },
+    {
+      "name": "吉兆割烹壽司",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-Ldvr6Iz4DheqBWlduOx:inline-live-2a466/-Ldvr6r0KrYfKiNgDfhl",
+      "phone": "02-2771-1020",
+      "mirror": "kitcho"
+    },
+    {
+      "name": "La Vie by Thomas Bühner",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NOs8SwU9gXJo1sXacz3:inline-live-3/-NOs8T7bRYYL6EMMvyXA",
+      "phone": "0937-857-869"
+    },
+    {
+      "name": "明福台菜海產",
+      "city": "台北",
+      "stars": 1,
+      "url": "",
+      "phone": "02-2562-9287"
+    },
+    {
+      "name": "米香",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://www.tablecheck.com/zh-TW/grand-mayfull-hotel-taipei-mipon-taiwanese/reserve/landing",
+      "phone": "02-7722-3391"
+    },
+    {
+      "name": "元一",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NkYhiO_c8lVeO25bjWJ:inline-live-3/-NkYhiapoy620zXq89CV",
+      "phone": "02-2778-3380",
+      "mirror": "motoichi"
+    },
+    {
+      "name": "山海樓",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-LOEGOiuX6eKriFBx6i2:inline-live-2a466/-LOEGOjuv4YoLm5tNnI-",
+      "phone": "02-2351-3345",
+      "mirror": "mountain-and-sea-house"
+    },
+    {
+      "name": "Mume",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NbtEY_pi5UMJOZJqdQ3:inline-live-3/-NbtEYmCvLCf_ZMqv6ow",
+      "phone": "02-2700-0901"
+    },
+    {
+      "name": "Restaurant 12",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://www.tablecheck.com/zh-TW/yms-by-onefifteen-restaurant-12/reserve/landing",
+      "phone": "02-2861-8880"
+    },
+    {
+      "name": "SENS",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-N-R0qu4RLbKSmG2pLRn:inline-live-2/-N-R0rB_g41rgQUEA9Ex",
+      "phone": "02-2718-6388"
+    },
+    {
+      "name": "欣葉 鐘菜",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://www.tablecheck.com/zh-TW/shin-yeh-taiwanese-signature/reserve/message",
+      "phone": "02-2532-7373"
+    },
+    {
+      "name": "晶華軒",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-LXWtnNpJAgPmZq2_IuG:inline-live-2a466/-LXWtnhb7OZRZR9J9Yat",
+      "phone": "02-2523-8000"
+    },
+    {
+      "name": "明壽司",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-LamflAySXg_7Ue06pMl:inline-live-2a466/-LamflF5AZtaX7-6Zrki",
+      "phone": "02-2596-1069"
+    },
+    {
+      "name": "鮨 嘉仁",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-OByTYwB8UBWRW6VVbB5:inline-live-3/-OByTZ2zeLJWAeydKUgo",
+      "phone": "02-2581-8999",
+      "mirror": "sushi-kajin"
+    },
+    {
+      "name": "鮨隆",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NrDgWf1OgKOYVxtgI1w:inline-live-3/-NrDgWsmupPgpxy1F9RU",
+      "phone": "02-2581-8380",
+      "mirror": "sushi-ryu"
+    },
+    {
+      "name": "壽司芳",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-M0VbED7sCLvieNwtOt7:inline-live-1/-M0VbEIUsdluiTQ3SDb5",
+      "phone": "02-2721-5560",
+      "mirror": "sushiyoshi"
+    },
+    {
+      "name": "T+T",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-LqeM7KWdIEaHWXimlwv:inline-live-1/-LqeM7lsDy0lNerDGDfb",
+      "phone": "02-2719-9191",
+      "mirror": "t-plus-t"
+    },
+    {
+      "name": "請客樓",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://www.tablecheck.com/zh-TW/sheraton-grand-taipei-hotel-the-guest-house/reserve/landing",
+      "phone": "02-2321-1818"
+    },
+    {
+      "name": "天香樓",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-M9XmQ7eq_iWxLa2sIdI:inline-live-1/-M9XmQPkceh43AjzsRA4",
+      "phone": "02-2597-1234"
+    },
+    {
+      "name": "Wok by O'BOND",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NZyltfbIwtcknzK-Mua:inline-live-3/-NZyltuMK93bfWDoglfE",
+      "phone": "02-2778-4503",
+      "mirror": "wok-by-o-bond"
+    },
+    {
+      "name": "雅閣",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://www.sevenrooms.com/reservations/yagetaipei",
+      "phone": "02-2715-6788"
+    },
+    {
+      "name": "ZEA",
+      "city": "台北",
+      "stars": 1,
+      "url": "https://inline.app/booking/-MyCFLkjTaI_K-ian9JT:inline-live-2/-MyCFM2TdthKGH9Iphd4",
+      "phone": ""
+    },
+    {
+      "name": "L'Atelier par Yao",
+      "city": "台中",
+      "stars": 1,
+      "url": "https://inline.app/booking/-MZB6bSrO0O_nFIfbE3O:inline-live-2/-MZB6bdT8U1qTI-1cNqL",
+      "phone": "0968-059-811",
+      "mirror": "latelier-par-yao"
+    },
+    {
+      "name": "俺達的肉屋",
+      "city": "台中",
+      "stars": 1,
+      "url": "https://inline.app/booking/-LhGnLqUL6lmJJdyMRwD:inline-live-2a466/-LhGnLuc5nUT8R5sFAVD",
+      "phone": "04-2325-0588"
+    },
+    {
+      "name": "山与",
+      "city": "台中",
+      "stars": 1,
+      "url": "https://inline.app/booking/-Nv0g5Yw1EGIHer0c1bR:inline-live-3/-Nv0g5nvl-wjIp60rQIs",
+      "phone": "04-2251-5208"
+    },
+    {
+      "name": "澀",
+      "city": "台中",
+      "stars": 1,
+      "url": "https://inline.app/booking/-MlmZBCwjwJSPg79NZJ3:inline-live-2/-MlmZBKEE_R6fuS3KkU-",
+      "phone": "04-2203-7830",
+      "mirror": "sur"
+    },
+    {
+      "name": "元紀",
+      "city": "台中",
+      "stars": 1,
+      "url": "https://inline.app/booking/-Nft6HhALoenqgqsdGOS:inline-live-3/-Nft6HtTk2KPH35tqbES",
+      "phone": "04-2358-6368",
+      "mirror": "yuan-ji"
+    },
+    {
+      "name": "予島",
+      "city": "台南",
+      "stars": 1,
+      "url": "https://inline.app/booking/-OcizWz5yL9MyENwWb3T:inline-live-3/-OcizX4-I05HxAj6-Sm2",
+      "phone": ""
+    },
+    {
+      "name": "雋",
+      "city": "高雄",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NjMH8-t3iZ5qGSmn4lu:inline-live-3/-NjMH8CIe1tsru7N33YF",
+      "phone": "07-338-4885"
+    },
+    {
+      "name": "Nibbon",
+      "city": "高雄",
+      "stars": 1,
+      "url": "https://inline.app/booking/-M6ZAIAp9ox-_ayl9U0U:inline-live-1/-M6ZAIEqz2ql0-Z2USv8",
+      "phone": "07-586-9570"
+    },
+    {
+      "name": "HAILI",
+      "city": "高雄",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NSFhzQ9kpzfwC7K_aEj:inline-live-3/-NSFhzcZu_-zMdTzRJIC",
+      "phone": "07-215-0559",
+      "mirror": "haili"
+    },
+    {
+      "name": "Hābu",
+      "city": "高雄",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NXEEFwswTbjv9GYyd9X:inline-live-3/-NXEEG8Gal6wf7wtehYC",
+      "phone": "07-241-3100"
+    },
+    {
+      "name": "承",
+      "city": "高雄",
+      "stars": 1,
+      "url": "https://inline.app/booking/-MNLtfQhbykJX7ZhU7vU:inline-live-2/-MNLtf_-xCRXME4US9m7",
+      "phone": "07-334-6709",
+      "mirror": "sho"
+    },
+    {
+      "name": "方蒔",
+      "city": "高雄",
+      "stars": 1,
+      "url": "https://inline.app/booking/-NJOzgNvgc_eKJepWPX0:inline-live-3/-NJOzgez3gtTu4sr71AU",
+      "phone": "07-223-1768",
+      "mirror": "the-front-house"
+    },
+    {
+      "name": "鮨安",
+      "city": "新竹縣",
+      "stars": 1,
+      "url": "https://inline.app/booking/-MndiychcKkG5C7tlSFi:inline-live-2/-Mndiyn9de2Nulvq69da",
+      "phone": "0919-110-613"
+    }
+  ]
+}
